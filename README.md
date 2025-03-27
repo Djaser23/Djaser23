@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Djaser23
 - 👀 I’m interested in data analysis, data science, and making the world a better place where and when I can.
-- 🌱 I’m currently learning SQL, R
+- 🌱 I’m currently working on improving my Python, SQL, and Statistics knowledge.
 - 💞️ I’m looking to collaborate on a data analysis project for my portfolio.
 - 📫 How to reach me douglas.jaser@gmail.com
 
