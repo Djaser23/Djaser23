@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Djaser23
-- 👀 I’m interested in data analysis, data science, and making the world a better place where and when I can.
-- 🌱 I’m currently working on improving my Python, SQL, and Statistics knowledge.
-- 🧐 I’m looking to collaborate on a data analysis project for my portfolio.
-- 📫 How to reach me douglas.jaser@gmail.com
+Research data analyst with an MS in Data Science from Illinois Institute of Technology. I build analyses at the intersection of economic policy and population health — my current focus is housing affordability as a long-term macroeconomic indicator, using Federal Reserve data and the Median Multiple framework.
+Before data science I spent 15 years in functional nutrition and health coaching, including work on an NIH-registered Alzheimer's prevention trial. That background informs how I think about upstream determinants of health and economic outcomes at the population level.
+I'm interested in policy-facing analytical work — translating messy public-sector data into findings that move decision makers.
+📫 douglas.jaser@gmail.com
 
-<!---
-Djaser23/Djaser23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
