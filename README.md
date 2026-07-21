@@ -1,3 +1,5 @@
-Research data analyst with an MS in Data Science from Illinois Institute of Technology and 11 years in functional nutrition and clinical health consulting — including work on an NIH-registered Alzheimer's prevention trial. My work focuses on public-sector analyses examining social determinants of health and population-level outcomes. Recent project: a panel analysis of housing unaffordability and health outcomes across 58 California counties (2016–2024), using Python, panel regression, and Tableau. Bringing domain fluency in upstream health determinants to technical work that is usually done without it.
+Health data analyst with an MS in Data Science (Illinois Institute of Technology) and a clinical healthcare background — including 15 months on an NIH-registered clinical trial. Focused on claims-based analytics: readmissions, utilization, and cost patterns using SQL, Python, and Tableau. Brings hands-on clinical and functional health domain knowledge to technical analytics work — useful for value-based care, quality improvement, and health plan settings.
 📫 douglas.jaser@gmail.com
+
+
 
